@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Portfólio Pessoal — José Arnaldo
 
@@ -39,6 +38,3 @@ O projeto possui cinco páginas HTML, um arquivo CSS compartilhado e um arquivo 
 José Arnaldo
 
 Projeto desenvolvido para fins acadêmicos.
-=======
-# pratica-html-portfolio_pessoal
->>>>>>> 79ee5535a64c695c0afb12f75e840f1b02a1a455
